@@ -1,0 +1,10 @@
+C:\Users\dong0\Downloads\DataGridview_Report\DataGridview_Report\bin\Debug\DataGridview_Report.exe.config
+C:\Users\dong0\Downloads\DataGridview_Report\DataGridview_Report\bin\Debug\DataGridview_Report.exe
+C:\Users\dong0\Downloads\DataGridview_Report\DataGridview_Report\bin\Debug\DataGridview_Report.pdb
+C:\Users\dong0\Downloads\DataGridview_Report\DataGridview_Report\obj\Debug\DataGridview_Report.csproj.AssemblyReference.cache
+C:\Users\dong0\Downloads\DataGridview_Report\DataGridview_Report\obj\Debug\DataGridview_Report.Form1.resources
+C:\Users\dong0\Downloads\DataGridview_Report\DataGridview_Report\obj\Debug\DataGridview_Report.Properties.Resources.resources
+C:\Users\dong0\Downloads\DataGridview_Report\DataGridview_Report\obj\Debug\DataGridview_Report.csproj.GenerateResource.cache
+C:\Users\dong0\Downloads\DataGridview_Report\DataGridview_Report\obj\Debug\DataGridview_Report.csproj.CoreCompileInputs.cache
+C:\Users\dong0\Downloads\DataGridview_Report\DataGridview_Report\obj\Debug\DataGridview_Report.exe
+C:\Users\dong0\Downloads\DataGridview_Report\DataGridview_Report\obj\Debug\DataGridview_Report.pdb
